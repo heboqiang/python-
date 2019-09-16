@@ -1,0 +1,44 @@
+[2019-05-26 10:24:23,003] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 10:26:40,242] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 10:28:46,356] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 10:32:32,463] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 10:38:13,077] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 10:45:33,939] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 10:50:34,472] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 10:50:50,823] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 10:52:23,684] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 11:05:24,164] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 11:07:17,667] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 11:11:04,861] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 11:22:18,791] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 11:22:51,014] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 13:57:18,492] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 13:57:19,780] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 14:26:49,215] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 14:26:49,846] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 16:36:35,994] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 16:36:36,575] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 17:58:38,660] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2019-05-26 17:59:05,807] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 17:59:06,249] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 17:59:30,890] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2019-05-26 17:59:55,190] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 17:59:55,690] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 18:02:21,246] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2019-05-26 18:02:43,364] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 18:02:43,807] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 18:03:49,699] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2019-05-26 18:04:12,392] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 18:04:12,856] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 18:04:24,405] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2019-05-26 18:04:47,024] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 18:04:47,944] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 18:06:35,139] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2019-05-26 18:06:57,334] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 18:06:57,673] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 18:08:29,231] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2019-05-26 18:08:51,497] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 18:08:51,891] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 18:09:23,467] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-05-26 18:09:23,901] - logger.py] - INFO: 获取请求结果：{"result_message":"成功","data":{"list":[]},"result_code":200}
+[2019-05-26 18:09:25,038] - logger.py] - INFO: ================================== 测试结束 ==================================
